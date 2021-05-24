@@ -25,7 +25,7 @@
       </div>
         <div class="about">
           <h2>About Me</h2>
-          <img class="avatar" src="http://www.hotavatars.com/wp-content/uploads/2019/01/I80W1Q0.png" alt="">
+          <img class="avatar" src="../assets/avatar.png" alt="">
           <h3>Aswin CP</h3>
           <p class="about-desc">FullStack Webdeveloper and Mobile Application Developer. Currently pursuing Bachelor of Computer Science from College Of Applied Science, Calicut.</p>
           <p class="social-icons">
