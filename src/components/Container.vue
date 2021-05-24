@@ -14,8 +14,8 @@
                   </p>
                   </router-link>
                 </div>
-                                <div class="card">
-                     <a href="/">  
+                <div class="card">
+                     <router-link to="/post">
                   <h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi animi nihil quos impedit.</h2>
                   <div class="date">March 7,2021</div>
                   <img src="https://img.gaadicdn.com/images/carexteriorimages/630x420/Audi/RS-Q8/7943/1598516299283/front-left-side-47.jpg" alt="">
@@ -23,9 +23,20 @@
                       <p class="description">
                           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur animi, rerum blanditiis veniam nihil, fugit reprehenderit fugiat, quis temporibus officiis cum sunt modi quo possimus corporis consequuntur excepturi est totam. Quisquam culpa laborum velit illo corrupti, unde harum nulla similique aperiam, cupiditate, repellat magnam optio nostrum quis facilis distinctio! Assumenda deserunt enim modi sequi sunt, corrupti harum voluptatum! Eaque, doloremque. In molestiae incidunt error ipsum asperiores dolor quidem, unde maiores fuga quo, quas, cum alias quod dolorum labore sunt beatae?
                   </p>
-                  </a>
+                  </router-link>
                 </div>
-           
+                <div class="card">
+                     <router-link to="/post">
+                  <h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi animi nihil quos impedit.</h2>
+                  <div class="date">March 7,2021</div>
+                  <img src="https://img.gaadicdn.com/images/carexteriorimages/630x420/Audi/RS-Q8/7943/1598516299283/front-left-side-47.jpg" alt="">
+               
+                      <p class="description">
+                          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur animi, rerum blanditiis veniam nihil, fugit reprehenderit fugiat, quis temporibus officiis cum sunt modi quo possimus corporis consequuntur excepturi est totam. Quisquam culpa laborum velit illo corrupti, unde harum nulla similique aperiam, cupiditate, repellat magnam optio nostrum quis facilis distinctio! Assumenda deserunt enim modi sequi sunt, corrupti harum voluptatum! Eaque, doloremque. In molestiae incidunt error ipsum asperiores dolor quidem, unde maiores fuga quo, quas, cum alias quod dolorum labore sunt beatae?
+                  </p>
+                  </router-link>
+                </div>
+               
                  
             
           </div>

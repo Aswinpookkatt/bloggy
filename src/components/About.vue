@@ -5,16 +5,16 @@
           <h2>Popular Posts</h2>
           <div class="scroll-container">
               <div class="card">
-                  <h5> <a href="/">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex itaque porro maiores dolore corporis minima facilis, reiciendis voluptas cum rerum!</a></h5>
+                  <h5> <router-link to="/post">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex itaque porro maiores dolore corporis minima facilis, reiciendis voluptas cum rerum!</router-link></h5>
               </div>
-              <div class="card">
-                  <h5> <a href="/">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex itaque porro maiores dolore corporis minima facilis, reiciendis voluptas cum rerum!</a></h5>
+                <div class="card">
+                  <h5> <router-link to="/post">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex itaque porro maiores dolore corporis minima facilis, reiciendis voluptas cum rerum!</router-link></h5>
               </div>
-                   <div class="card">
-                  <h5> <a href="/">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex itaque porro maiores dolore corporis minima facilis, reiciendis voluptas cum rerum!</a></h5>
+                <div class="card">
+                  <h5> <router-link to="/post">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex itaque porro maiores dolore corporis minima facilis, reiciendis voluptas cum rerum!</router-link></h5>
               </div>
-                   <div class="card">
-                  <h5> <a href="/">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex itaque porro maiores dolore corporis minima facilis, reiciendis voluptas cum rerum!</a></h5>
+                <div class="card">
+                  <h5> <router-link to="/post">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex itaque porro maiores dolore corporis minima facilis, reiciendis voluptas cum rerum!</router-link></h5>
               </div>
               
              
@@ -29,10 +29,10 @@
           <h3>Aswin CP</h3>
           <p class="about-desc">FullStack Webdeveloper and Mobile Application Developer. Currently pursuing Bachelor of Computer Science from College Of Applied Science, Calicut.</p>
           <p class="social-icons">
-              <a href="/"><i class="fab fa-twitter"></i></a>
-              <a href="/"><i class="fab fa-linkedin-in"></i></a>
-              <a href="/"><i class="fab fa-github"></i></a>
-              <a href="/"><i class="far fa-envelope"></i></a>
+              <a href="https://twitter.com/Aswinpookkatt"><i class="fab fa-twitter"></i></a>
+              <a href="https://www.linkedin.com/in/aswinpookkatt/"><i class="fab fa-linkedin-in"></i></a>
+              <a href="https://github.com/Aswinpookkatt"><i class="fab fa-github"></i></a>
+              <a href="mailto:aswinpookkatt@gmail.com"><i class="far fa-envelope"></i></a>
 
               
          </p>
